@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/readmeislamnode/static/css/main.5f361e03.chunk.css",
-    "main.js": "/readmeislamnode/static/js/main.7e8e45d7.chunk.js",
-    "main.js.map": "/readmeislamnode/static/js/main.7e8e45d7.chunk.js.map",
+    "main.css": "/readmeislamnode/static/css/main.736ba1d0.chunk.css",
+    "main.js": "/readmeislamnode/static/js/main.b635d8ed.chunk.js",
+    "main.js.map": "/readmeislamnode/static/js/main.b635d8ed.chunk.js.map",
     "runtime-main.js": "/readmeislamnode/static/js/runtime-main.33dde9fb.js",
     "runtime-main.js.map": "/readmeislamnode/static/js/runtime-main.33dde9fb.js.map",
     "static/js/2.4c601c1f.chunk.js": "/readmeislamnode/static/js/2.4c601c1f.chunk.js",
     "static/js/2.4c601c1f.chunk.js.map": "/readmeislamnode/static/js/2.4c601c1f.chunk.js.map",
     "index.html": "/readmeislamnode/index.html",
-    "precache-manifest.a2ca8fad1bce4e1d0fc34c2edb7bb955.js": "/readmeislamnode/precache-manifest.a2ca8fad1bce4e1d0fc34c2edb7bb955.js",
+    "precache-manifest.6c15f0d742a84c9263dfc731004853c2.js": "/readmeislamnode/precache-manifest.6c15f0d742a84c9263dfc731004853c2.js",
     "service-worker.js": "/readmeislamnode/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/readmeislamnode/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.736ba1d0.chunk.css.map": "/readmeislamnode/static/css/main.736ba1d0.chunk.css.map",
     "static/js/2.4c601c1f.chunk.js.LICENSE.txt": "/readmeislamnode/static/js/2.4c601c1f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/readmeislamnode/static/media/logo.5d5d9eef.svg"
+    "static/media/readmeislam-ico.svg": "/readmeislamnode/static/media/readmeislam-ico.21c6020b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.33dde9fb.js",
     "static/js/2.4c601c1f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7e8e45d7.chunk.js"
+    "static/css/main.736ba1d0.chunk.css",
+    "static/js/main.b635d8ed.chunk.js"
   ]
 }
