@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './readmeislam-ico.svg';
 import './App.css';
+import Donate from './Donate';
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
         >
           Read Me Islam Facebook
         </a>
+        <div className='donation'>
+        <Donate />
+        </div>
       </header>
     </div>
   );
